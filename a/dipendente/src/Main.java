@@ -9,7 +9,7 @@ public class Main {
         System.out.println("2 per stampare tutto di n in input");
         System.out.println("3 o altro per uscire");
     }
-    private static void fill(dipendente[]lista) //what is static?
+    private static void fill(dipendente[]lista) //what is static? se metto static allora il valore sara lo stesso per tutte le istanze della classe
     {
         Scanner key = new Scanner(System.in);
         for(int i = 0; i < DIM; i++)
