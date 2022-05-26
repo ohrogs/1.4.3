@@ -77,7 +77,20 @@ public class scuola {
             return elencoDocenti[0];
     }
 
-    public String[] getAllEtaMinima()
+    public elenco produceElenco(int pEta)
+    {
+        elenco ret = new elenco(nextfree);
+        for (int i = 0; i < nextfree; i++)
+        {
+            if (elencoDocenti[i].getEta() == pEta)
+            {
+                ret.addCognome(elencoDocenti[i].getCognome());
+            }
+        }
+        return ret;
+    }
+
+    /*public String[] getAllEtaMinima()
     {
         String[] elenco = new String[nextfree];
         int count = 0;
@@ -92,6 +105,6 @@ public class scuola {
             }
         }
         return elenco;
-    }
+    }*/
 
 }

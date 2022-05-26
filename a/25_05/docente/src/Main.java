@@ -13,13 +13,18 @@ public class Main {
         sestri.addDocente(new docente("e", "e", "5", 1));
         //System.out.println(sestri.elencoDocenti[0].getCognome());
         sestri.printAlleta();
-        System.out.println("etá minima rilevata = " + sestri.etaMinima().getEta());
+        System.out.println("etá minima rilevata = " + sestri.etaMinima().getEta()); //scateno sort()
         sestri.printAlleta();
-        String []elenco = sestri.getAllEtaMinima();
+        elenco cognomi = sestri.produceElenco(sestri.etaMinima().getEta());
+        System.out.println("Procedo a stampare tutto");
+        cognomi.printAll();
+
+
+        /*String []elenco = sestri.getAllEtaMinima();
         System.out.println("procedo a stampare l'elenco:");
         for (int i = 0; i < sestri.nextfree; i++)
         {
             System.out.println(elenco[i]);
-        }
+        }*/
     }
 }
