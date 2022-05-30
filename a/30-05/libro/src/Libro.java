@@ -31,6 +31,10 @@ public class Libro {
         this.prezzo = l.prezzo;
     }
 
+    public boolean isEqual(Libro l)
+    {
+        return l.getStringAutore().equals(this.getStringAutore()) && l.getTitolo().equals(this.getTitolo());
+    }
     public String getTitolo() {
         return titolo;
     }

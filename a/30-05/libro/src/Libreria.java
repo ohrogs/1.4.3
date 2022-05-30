@@ -1,17 +1,18 @@
-public class Libreria {
-    ElencoLibri libreria;
+import java.util.ArrayList;
 
-    public Libreria(int dim)
+public class Libreria {
+    //ElencoLibri libreria;
+    ArrayList<Libro> libreria;
+
+    public Libreria()
     {
-        libreria = new ElencoLibri(dim);
+        libreria = new <Libro>ArrayList();
     }
 
     public boolean isIn(Libro l)
     {
-        for (int i = 0; i < libreria.nextfree; i++)
-        {
-            if(libreria.read(i).getAutore().nome.equals(l.getAutore().nome) && libreria.read(i).getAutore().congome.equals(l.getAutore().congome))
-            {
+        for(Libro k : libreria) {
+            if (k.isEqual(l)) {
                 return true;
             }
         }
@@ -20,35 +21,34 @@ public class Libreria {
 
     public void add(Libro l)
     {
-        if(isIn(l))
+        if(this.isIn(l))
         {
             return;
         }
-        libreria.append(l);
-
+        libreria.add(l);
     }
 
-    public ElencoLibri fetch(double price, String autoreNome, String autoreCognome)
+    public ArrayList<Libro> fetch(double price, String autoreNome, String autoreCognome)
     {
-        ElencoLibri ris = new ElencoLibri(libreria.nextfree);
-        for (int i = 0; i < libreria.nextfree; i++)
+        ArrayList<Libro> ris = new <Libro>ArrayList();
+        for (int i = 0; i < libreria.size(); i++)
         {
-            if (libreria.read(i).getPrezzo() < price && libreria.read(i).getAutore().nome.equals(autoreNome) && libreria.read(i).getAutore().congome.equals(autoreCognome))
+            if (libreria.get(i).getPrezzo() < price && libreria.get(i).getAutore().nome.equals(autoreNome) && libreria.get(i).getAutore().congome.equals(autoreCognome))
             {//se libreria.libro.prendiautore.cognome.éuguale?
-                ris.append(libreria.read(i));
+                ris.add(libreria.get(i));
             }
         }
         return ris;
     }
 
-    public ElencoLibri fetchAutore(Autore autore)
+    public ArrayList<Libro>  fetchAutore(Autore autore)
     {
-        ElencoLibri ris = new ElencoLibri(libreria.nextfree);
-        for (int i = 0; i < libreria.nextfree; i++)
+        ArrayList<Libro> ris = new <Libro>ArrayList();
+        for (int i = 0; i < libreria.size(); i++)
         {
-            if (autore.congome.equals(libreria.read(i).getAutore().congome) && autore.nome.equals(libreria.read(i).getAutore().nome))
+            if (autore.congome.equals(libreria.get(i).getAutore().congome) && autore.nome.equals(libreria.get(i).getAutore().nome))
             {
-                ris.append(libreria.read(i));
+                ris.add(libreria.get(i));
             }
         }
         return ris;
@@ -56,6 +56,9 @@ public class Libreria {
 
     public void printAll()
     {
-        libreria.printElenco();
+        for(Libro l : libreria)
+        {
+            l.printAll();
+        }
     }
 }

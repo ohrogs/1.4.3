@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0aca5ea-bc4e-4af4-aa23-d781185952e5" name="Changes" comment="" />
+    <list default="true" id="d0aca5ea-bc4e-4af4-aa23-d781185952e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../25_05/docente/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../25_05/docente/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../25_05/docente/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../25_05/docente/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../25_05/docente/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../25_05/docente/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../25_05/docente/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../25_05/docente/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../25_05/docente/docente.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../25_05/docente/docente.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../25_05/docente/src/docente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25_05/docente/src/docente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../25_05/docente/src/elenco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25_05/docente/src/elenco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../25_05/docente/src/scuola.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25_05/docente/src/scuola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/libro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libro/Autore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/libro/Autore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libro/ElencoLibri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libro/Libreria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/libro/Libreria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libro/Libro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/libro/Libro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/libro/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/libro/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Autore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Autore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElencoAutori.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElencoAutori.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElencoLibri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Libreria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Libreria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dipendente/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../dipendente/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dipendente/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dipendente/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dipendente/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dipendente/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dipendente/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dipendente/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dipendente/dipendente.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../dipendente/dipendente.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dipendente/src/dipendente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../dipendente/src/dipendente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../motorino/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../motorino/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../motorino/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../motorino/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../motorino/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../motorino/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../motorino/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../motorino/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../motorino/motorino.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../motorino/motorino.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../motorino/src/motorino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../motorino/src/motorino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rettangolo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rettangolo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rettangolo/rettangolo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../rettangolo/rettangolo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rettangolo/rettangolo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rettangolo/rettangolo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rettangolo/rettangolo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rettangolo/rettangolo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rettangolo/rettangolo/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rettangolo/rettangolo/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rettangolo/rettangolo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rettangolo/rettangolo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rettangolo/rettangolo/rettangolo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rettangolo/rettangolo/rettangolo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../rettangolo/rettangolo/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rettangolo/rettangolo/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +76,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Documenti/1-ITS/1.4.3/a/30-05/libro"
   }
 }]]></component>
   <component name="RunManager">
@@ -56,10 +103,22 @@
       <option name="presentableId" value="Default" />
       <updated>1653918322593</updated>
       <workItem from="1653918323906" duration="6116000" />
+      <workItem from="1653943765457" duration="2309000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
