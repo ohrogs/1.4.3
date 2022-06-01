@@ -1,0 +1,8 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\console1\PrimaConsole\PrimaConsole\bin\Debug\PrimaConsole.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\console1\PrimaConsole\PrimaConsole\bin\Debug\PrimaConsole.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\console1\PrimaConsole\PrimaConsole\bin\Debug\PrimaConsole.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\console1\PrimaConsole\PrimaConsole\obj\Debug\PrimaConsole.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\console1\PrimaConsole\PrimaConsole\obj\Debug\PrimaConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\console1\PrimaConsole\PrimaConsole\obj\Debug\PrimaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\console1\PrimaConsole\PrimaConsole\obj\Debug\PrimaConsole.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\console1\PrimaConsole\PrimaConsole\obj\Debug\PrimaConsole.pdb
