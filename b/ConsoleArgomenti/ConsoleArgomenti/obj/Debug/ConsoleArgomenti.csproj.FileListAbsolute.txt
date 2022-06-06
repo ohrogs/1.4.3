@@ -1,0 +1,8 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleArgomenti\ConsoleArgomenti\bin\Debug\ConsoleArgomenti.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleArgomenti\ConsoleArgomenti\bin\Debug\ConsoleArgomenti.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleArgomenti\ConsoleArgomenti\bin\Debug\ConsoleArgomenti.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleArgomenti\ConsoleArgomenti\obj\Debug\ConsoleArgomenti.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleArgomenti\ConsoleArgomenti\obj\Debug\ConsoleArgomenti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleArgomenti\ConsoleArgomenti\obj\Debug\ConsoleArgomenti.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleArgomenti\ConsoleArgomenti\obj\Debug\ConsoleArgomenti.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleArgomenti\ConsoleArgomenti\obj\Debug\ConsoleArgomenti.pdb

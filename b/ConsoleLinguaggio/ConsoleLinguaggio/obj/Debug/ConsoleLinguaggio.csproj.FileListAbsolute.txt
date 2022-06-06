@@ -1,0 +1,8 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleLinguaggio\ConsoleLinguaggio\bin\Debug\ConsoleLinguaggio.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleLinguaggio\ConsoleLinguaggio\bin\Debug\ConsoleLinguaggio.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleLinguaggio\ConsoleLinguaggio\bin\Debug\ConsoleLinguaggio.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleLinguaggio\ConsoleLinguaggio\obj\Debug\ConsoleLinguaggio.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleLinguaggio\ConsoleLinguaggio\obj\Debug\ConsoleLinguaggio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleLinguaggio\ConsoleLinguaggio\obj\Debug\ConsoleLinguaggio.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleLinguaggio\ConsoleLinguaggio\obj\Debug\ConsoleLinguaggio.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\ConsoleLinguaggio\ConsoleLinguaggio\obj\Debug\ConsoleLinguaggio.pdb
