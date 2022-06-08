@@ -8,15 +8,15 @@ public class Main {
         lib1.add(new Libro(new Autore("frank", "herbert", "non lo so"), "dune 3?", 199.99));
         lib1.add(new Libro());
         lib1.printAll();
-        ArrayList<Libro> esito = lib1.fetchAutore(new Autore("frank", "herbert", "non lo so"));
+        //ArrayList<Libro> esito = lib1.fetchAutore(new Autore("frank", "herbert", "non lo so"));
         System.out.println("esito print fetchautore");
-        for(Libro l : esito)
+        for(Libro l : lib1.fetchAutore(new Autore("frank", "herbert", "non lo so")))
         {
             l.printAll();
         }
         System.out.println("esito print fetch");
-        esito = lib1.fetch(20.0, "frank", "herbert");
-        for(Libro l : esito)
+        //esito = lib1.fetch(20.0, "frank", "herbert");
+        for(Libro l : lib1.fetch(20.0, "frank", "herbert"))
         {
             l.printAll();
         }

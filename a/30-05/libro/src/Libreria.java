@@ -1,12 +1,15 @@
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 public class Libreria {
     //ElencoLibri libreria;
-    ArrayList<Libro> libreria;
+   public LinkedList<Libro> libreria;
+
+
 
     public Libreria()
     {
-        libreria = new <Libro>ArrayList();
+        libreria = new <Libro>LinkedList();
     }
 
     public boolean isIn(Libro l)

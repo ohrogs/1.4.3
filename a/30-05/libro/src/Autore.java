@@ -6,7 +6,7 @@ public class Autore {
     {
         nome = "Karl";
         congome = "Marx";
-        dataNascita = "ma a me che cosa me ne frega";
+        dataNascita = "boh";
     }
 
     public Autore(String nome, String cognome, String dataNasctia)
