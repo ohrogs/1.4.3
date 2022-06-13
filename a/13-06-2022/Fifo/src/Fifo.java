@@ -1,6 +1,6 @@
 public class Fifo<T> {
     private T []queue = null;
-    private int b,t; //b tiene conto della testa della coda, t del retro
+    private int b,t; //b bottom, t top
     private  boolean checkN;
 
     public Fifo(int dim) throws Exception
@@ -18,6 +18,11 @@ public class Fifo<T> {
         return b>=t;
     }
 
+    private void scale()
+    {
+
+    }
+
     public void enqueue(T o) throws Exception
     {
         if (b == queue.length-1 || t == queue.length-1)
@@ -26,16 +31,17 @@ public class Fifo<T> {
         {
             queue[0]=o;
         }
-        else if(b>0 && t==0)
-        {
-            queue[1]=queue[0];
-            queue[0]=o;
-            b++;
-        }
         else
         {
-            
+            queue[++t]=o;
         }
+    }
+
+    public T dequeue()
+    {
+        T ret = queue[t];
+        queue[t--]=null;
+        return ret;
     }
 
 }
