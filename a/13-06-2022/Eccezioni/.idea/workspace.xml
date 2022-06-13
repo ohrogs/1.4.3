@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="750e0c32-6849-48f1-a083-7fa95e2e4f16" name="Changes" comment="" />
+    <list default="true" id="ca54c6f5-c416-4e47-ab72-d11603ef1519" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2ANxREYBmcMAkCyGmXwA1pxS4Vb" />
+  <component name="ProjectId" id="2AVpCyE8vLfHe17Xz0zvYd0pzmE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,7 +36,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Concessionaria" />
+      <module name="Eccezioni" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -50,14 +50,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="750e0c32-6849-48f1-a083-7fa95e2e4f16" name="Changes" comment="" />
-      <created>1654863835646</created>
+      <changelist id="ca54c6f5-c416-4e47-ab72-d11603ef1519" name="Changes" comment="" />
+      <created>1655104485633</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1654863835646</updated>
-      <workItem from="1654863837009" duration="4759000" />
-      <workItem from="1655103147389" duration="97000" />
-      <workItem from="1655104328297" duration="157000" />
+      <updated>1655104485633</updated>
+      <workItem from="1655104486950" duration="1561000" />
+      <workItem from="1655107204448" duration="1622000" />
     </task>
     <servers />
   </component>
