@@ -33,7 +33,7 @@ public class Fifo<T> {
         }
         else
         {
-            queue[++t]=o;
+            queue[++t]=o;//devo spostare in su qualcosa
         }
     }
 
