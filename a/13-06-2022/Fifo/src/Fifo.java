@@ -34,7 +34,7 @@ public class Fifo<T> {
             throw new maxDimReached("Max array dimension reached");
         if(b==0 && t==0)
         {
-            queue[0]=o;
+            queue[++t]=o;
         }
         else
         {
@@ -44,7 +44,8 @@ public class Fifo<T> {
 
     public T dequeue()
     {
-        T ret = queue[0];
+        T ret = queue[b];
+        queue[b] = null;
         //devo far scendere qualcosa
         scale();
         b++;
@@ -53,10 +54,20 @@ public class Fifo<T> {
 
     public void printAll()
     {
+        for (int i = b; i<t; i++)
+        {
+            System.out.print(queue[i] + " ");
+        }
+        System.out.println("");
+    }
+
+    public void printRaw()
+    {
         for (T o : queue)
         {
-            System.out.println(o);
+            System.out.print(o + " ");
         }
+        System.out.println("");
     }
 
 }
