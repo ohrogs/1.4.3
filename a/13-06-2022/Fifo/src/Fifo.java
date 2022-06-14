@@ -15,11 +15,16 @@ public class Fifo<T> {
 
     private boolean check()
     {
+        checkN = b>=t;
         return b>=t;
     }
 
     private void scale()
     {
+        for (int i = b; i<t; i++)
+        {
+            queue[i] = queue[i+1];
+        }
 
     }
 
@@ -33,15 +38,25 @@ public class Fifo<T> {
         }
         else
         {
-            queue[++t]=o;//devo spostare in su qualcosa
+            queue[++t] = o;
         }
     }
 
     public T dequeue()
     {
-        T ret = queue[t];
-        queue[t--]=null;
+        T ret = queue[0];
+        //devo far scendere qualcosa
+        scale();
+        b++;
         return ret;
+    }
+
+    public void printAll()
+    {
+        for (T o : queue)
+        {
+            System.out.println(o);
+        }
     }
 
 }
