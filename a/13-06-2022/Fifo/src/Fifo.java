@@ -21,9 +21,9 @@ public class Fifo<T> {
 
     private void scale()
     {
-        for (int i = b; i<t; i++)
+        for (int i = t; i>b; i--)
         {
-            queue[i] = queue[i+1];
+            queue[i] = queue[i--];
         }
 
     }
@@ -32,23 +32,19 @@ public class Fifo<T> {
     {
         if (b == queue.length-1 || t == queue.length-1)
             throw new maxDimReached("Max array dimension reached");
-        if(b==0 && t==0)
-        {
-            queue[++t]=o;
-        }
-        else
-        {
-            queue[++t] = o;
-        }
+        scale();
+        queue[++b] = o;
+
+        //qui devo scalare ma la scalata va fatta da b fino a t non da un altra parte e b deve seguire t e non annullare nulla
     }
 
     public T dequeue()
     {
-        T ret = queue[b];
-        queue[b] = null;
-        //devo far scendere qualcosa
+        T ret = queue[t];
+        queue[t] = null;
+        t--;
         scale();
-        b++;
+        //anche qui devo ricopiare tutto in su
         return ret;
     }
 

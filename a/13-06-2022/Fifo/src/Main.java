@@ -5,6 +5,7 @@ public class Main {
         TryEnqueue(queue, 9);
         TryEnqueue(queue, 8);
         System.out.println(queue.dequeue());
+        TryEnqueue(queue, 75);
         queue.printAll();
         queue.printRaw();
 
