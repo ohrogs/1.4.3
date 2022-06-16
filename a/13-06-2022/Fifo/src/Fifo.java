@@ -32,19 +32,21 @@ public class Fifo<T> {
     {
         if (b == queue.length-1 || t == queue.length-1)
             throw new maxDimReached("Max array dimension reached");
-        scale();
+        /*scale();
         queue[++b] = o;
 
-        //qui devo scalare ma la scalata va fatta da b fino a t non da un altra parte e b deve seguire t e non annullare nulla
+        //qui devo scalare ma la scalata va fatta da b fino a t non da un altra parte e b deve seguire t e non annullare nulla*/
+        //scale();
+        queue[t++]=o;
     }
 
     public T dequeue()
     {
-        T ret = queue[t];
-        queue[t] = null;
-        t--;
-        scale();
-        //anche qui devo ricopiare tutto in su
+        T ret = queue[b];
+        queue[b] = null;
+        b++;
+        //scale();
+        //anche qui devo ricopiare tutto in su perche la coda viene avanti
         return ret;
     }
 

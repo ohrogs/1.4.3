@@ -7,6 +7,10 @@ public class Main {
         System.out.println(queue.dequeue());
         TryEnqueue(queue, 75);
         queue.printAll();
+        TryEnqueue(queue, 11);
+        queue.printAll();
+        System.out.println("dequeue 2: "+queue.dequeue());
+        queue.printAll();
         queue.printRaw();
 
     }
