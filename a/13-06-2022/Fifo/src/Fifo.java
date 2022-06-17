@@ -1,7 +1,7 @@
 public class Fifo<T> {
     private T []queue = null;
     private int b,t; //b bottom, t top
-    private  boolean checkN;
+    private  boolean checkN; //first try
 
     public Fifo(int dim) throws Exception
     {
@@ -9,19 +9,18 @@ public class Fifo<T> {
             throw new wrongIndex("Wrong index Given");
         b = 0;
         t = 0;
-        checkN=true;
+        checkN=false;
         queue = (T[]) new Object [dim];
     }
 
     private boolean check()
     {
-        checkN = b>=t;
-        return b>=t;
+        return b >= t && checkN;
     }
 
     private void scale()
     {
-        for (int i = t; i>b; i--)
+        for (int i = t; i > b; i--)
         {
             queue[i] = queue[i--];
         }
@@ -37,6 +36,12 @@ public class Fifo<T> {
 
         //qui devo scalare ma la scalata va fatta da b fino a t non da un altra parte e b deve seguire t e non annullare nulla*/
         //scale();
+        /*if (check())
+        {
+            b=0;
+            t=0;
+        }*/
+        checkN=true;
         queue[t++]=o;
     }
 
@@ -47,6 +52,12 @@ public class Fifo<T> {
         b++;
         //scale();
         //anche qui devo ricopiare tutto in su perche la coda viene avanti
+        if (check())
+        {
+            b=0;
+            t=0;
+            checkN=false;
+        }
         return ret;
     }
 

@@ -4,12 +4,12 @@ public class Main {
         TryEnqueue(queue, 10);
         TryEnqueue(queue, 9);
         TryEnqueue(queue, 8);
-        System.out.println(queue.dequeue());
+        System.out.println("dequeue 1: "+ queue.dequeue());
         TryEnqueue(queue, 75);
         queue.printAll();
         TryEnqueue(queue, 11);
         queue.printAll();
-        System.out.println("dequeue 2: "+queue.dequeue());
+        System.out.println("dequeue 2: "+ queue.dequeue());
         queue.printAll();
         queue.printRaw();
 
