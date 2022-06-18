@@ -12,7 +12,7 @@ public class Main {
         //TryEnqueue(queue, 5);
         queue.printAll();
         System.out.println("stacco: " + queue.dequeue());
-        System.out.println("t: " + queue.getT() + " b: " + queue.getB());
+        queue.printAll();
     }
 
     private static Integer tryDequeue(Fifo<Integer> queue)
