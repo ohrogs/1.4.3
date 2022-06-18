@@ -31,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Mari Lorenzo/Documents/1.4.3/a/13-06-2022/Lifo"
+    "last_opened_file_path": "C:/Users/Mari Lorenzo/Documents/1.4.3/a/13-06-2022/Fifo"
   }
 }]]></component>
   <component name="RunManager">
@@ -65,10 +65,22 @@
       <workItem from="1655387013598" duration="1259000" />
       <workItem from="1655448622707" duration="1524000" />
       <workItem from="1655450256657" duration="52000" />
+      <workItem from="1655471310900" duration="5905000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

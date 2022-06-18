@@ -1,6 +1,6 @@
 public class Fifo<T> {
     private T []queue = null;
-    private int b,t; //b bottom, t top
+    private int b,t, contObj; //b bottom, t top
     private  boolean checkN; //first try
 
     public Fifo(int dim) throws Exception
@@ -9,13 +9,14 @@ public class Fifo<T> {
             throw new wrongIndex("Wrong index Given");
         b = 0;
         t = 0;
+        contObj = 0;
         checkN=false;
         queue = (T[]) new Object [dim];
     }
 
     private boolean check()
     {
-        return b >= t && checkN;
+        return b >= t;
     }
 
     private void scale()
@@ -29,43 +30,39 @@ public class Fifo<T> {
 
     public void enqueue(T o) throws Exception
     {
-        if (b == queue.length-1 || t == queue.length-1)
+        if (queue[(b % queue.length)] != null)
             throw new maxDimReached("Max array dimension reached");
-        /*scale();
-        queue[++b] = o;
-
-        //qui devo scalare ma la scalata va fatta da b fino a t non da un altra parte e b deve seguire t e non annullare nulla*/
-        //scale();
-        /*if (check())
-        {
-            b=0;
-            t=0;
-        }*/
         checkN=true;
-        queue[t++]=o;
+        queue[b]=o;
+        b=(b+1) % queue.length;
+        contObj++;
     }
 
     public T dequeue()
     {
-        T ret = queue[b];
-        queue[b] = null;
-        b++;
-        //scale();
-        //anche qui devo ricopiare tutto in su perche la coda viene avanti
-        if (check())
-        {
-            b=0;
-            t=0;
-            checkN=false;
-        }
+        T ret = queue[t];
+        queue[t] = null;
+        t = (t+1) % queue.length;
+        contObj--;
         return ret;
     }
 
+    /*public void printAll()
+    {
+
+        for (int i = t; i < b; i++)
+        {
+            System.out.print(queue[(t+i)%queue.length] + " ");
+        }
+        System.out.println("");
+    }*/
+
     public void printAll()
     {
-        for (int i = b; i<t; i++)
+
+        for (int i = 0; i < contObj; i++)
         {
-            System.out.print(queue[i] + " ");
+            System.out.print(queue[(t+i)%queue.length] + " ");
         }
         System.out.println("");
     }
@@ -79,4 +76,19 @@ public class Fifo<T> {
         System.out.println("");
     }
 
+    public int getB() {
+        return b;
+    }
+
+    public void setB(int b) {
+        this.b = b;
+    }
+
+    public int getT() {
+        return t;
+    }
+
+    public void setT(int t) {
+        this.t = t;
+    }
 }
