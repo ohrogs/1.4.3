@@ -1,7 +1,9 @@
+import java.util.Queue;
+
 public class Fifo<T> {
     private T []queue = null;
     private int b,t, contObj; //b bottom, t top
-    private  boolean checkN; //first try
+    private  boolean begin; //first try
 
     public Fifo(int dim) throws Exception
     {
@@ -10,13 +12,13 @@ public class Fifo<T> {
         b = 0;
         t = 0;
         contObj = 0;
-        checkN=false;
+        begin=true;
         queue = (T[]) new Object [dim];
     }
 
     private boolean check()
     {
-        return b >= t;
+        return b == t;
     }
 
     private void scale()
@@ -28,11 +30,23 @@ public class Fifo<T> {
 
     }
 
+    private void reset()
+    {
+        int dim = queue.length;
+        queue = null;
+        b = 0;
+        t = 0;
+        contObj = 0;
+        begin=true;
+        queue = (T[]) new Object [dim];
+
+    }
+
     public void enqueue(T o) throws Exception
     {
-        if (queue[(b % queue.length)] != null)
+        if (queue[b] != null)
             throw new maxDimReached("Max array dimension reached");
-        checkN=true;
+        begin=false;
         queue[b]=o;
         b=(b+1) % queue.length;
         contObj++;
@@ -44,8 +58,37 @@ public class Fifo<T> {
         queue[t] = null;
         t = (t+1) % queue.length;
         contObj--;
+        /*if (check() && !begin) //resetto se ho finito la coda
+            reset();*/
         return ret;
     }
+
+    /*public void printAll()
+    {
+        //System.out.println("queue.lenght= " + queue.length);
+        if (b>=t)
+        {
+            System.err.println("stampo da t = "+ t + " a b= "+ b);
+            for (int i = t; i <= b; i++)
+            {
+                System.out.print(queue[i] + " ");
+            }
+            System.out.println("");
+        }
+        else
+        {
+            for (int i = t; i < queue.length; i++)
+            {
+                System.out.print(queue[i] + " ");
+            }
+            for (int i = 0; i <= b; i++)
+            {
+                System.out.print(queue[i] + " ");
+            }
+            System.out.println("");
+        }
+    }*/
+
 
     /*public void printAll()
     {
