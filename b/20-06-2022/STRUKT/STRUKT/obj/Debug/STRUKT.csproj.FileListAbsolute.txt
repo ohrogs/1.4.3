@@ -1,0 +1,8 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\20-06-2022\STRUKT\STRUKT\bin\Debug\STRUKT.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\20-06-2022\STRUKT\STRUKT\bin\Debug\STRUKT.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\20-06-2022\STRUKT\STRUKT\bin\Debug\STRUKT.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\20-06-2022\STRUKT\STRUKT\obj\Debug\STRUKT.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\20-06-2022\STRUKT\STRUKT\obj\Debug\STRUKT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\20-06-2022\STRUKT\STRUKT\obj\Debug\STRUKT.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\20-06-2022\STRUKT\STRUKT\obj\Debug\STRUKT.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\20-06-2022\STRUKT\STRUKT\obj\Debug\STRUKT.pdb
