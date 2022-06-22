@@ -12,6 +12,7 @@ namespace Array
         {
             vettore();
             matrice();
+            cicli(20);
             Console.BackgroundColor = ConsoleColor.DarkRed;
             Console.ReadKey();
         }
@@ -28,6 +29,20 @@ namespace Array
             {
                 vettore[i] = (i+1)*10;
                 Console.Write(vettore[i] +" ");
+            }
+            Console.WriteLine();
+        }
+
+        private static void cicli(int i)
+        {
+            Console.BackgroundColor = ConsoleColor.Cyan;
+            while(i-->0)
+            {
+                if (i % 2 == 0)
+                    continue;
+                Console.Write(i + " ");
+                /*if (i == 10)
+                    break;*/
             }
             Console.WriteLine();
         }
@@ -60,10 +75,13 @@ namespace Array
         {
             for (int i = 0; i < mat.GetLength(0); i++)//getlenght restituisce la lun della prima dim della stringa
             {
-                for (int j = 0; j < mat.GetLength(1); j++)
+                /*for (int j = 0; j < mat.GetLength(1); j++)
                 {
                     Console.Write(mat[i,j] + " ");
-                }
+                }*/
+
+                foreach(int elemento in mat)
+                    Console.Write(elemento + " ");
                 Console.WriteLine("");
             }
         }
