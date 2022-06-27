@@ -11,10 +11,23 @@ namespace Classi
         private int eta;
         private string nome;
         private string cognome;
+        private DateTime dataNascita;
         private String cf;
 
 
         //Properties
+
+        public int eta
+        {
+            get 
+            {
+                return eta;
+            }
+            set
+            {
+                eta = value;
+            }
+        }
         public String Cognome
         {
             get 
@@ -34,6 +47,17 @@ namespace Classi
             set { nome = value; }
         }
 
+        public DateTime DataNascita
+        {
+            get { return dataNascita; }
+            set {
+                if(value <= DateTime.Today)
+                    dataNascita = value; 
+            }
+        }
+
+        
+
 
         //metodi
         public Persona()
@@ -42,13 +66,15 @@ namespace Classi
             nome = null;
             cognome = null;
             cf = null;
+            dataNascita = DateTime.Today;
         }
-        public Persona(int eta, string nome, string cognome, string cf)
+        public Persona(int eta, string nome, string cognome, string cf, DateTime dataNascita)
         {
             this.eta = eta;
             this.nome = nome;
             this.cognome = cognome;
             this.cf = cf;
+            this.dataNascita = dataNascita;
         }
         public String GetInfo()
         {
