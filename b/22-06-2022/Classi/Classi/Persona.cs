@@ -17,7 +17,7 @@ namespace Classi
 
         //Properties
 
-        public int eta
+        public int Eta
         {
             get 
             {
@@ -54,9 +54,7 @@ namespace Classi
                 if(value <= DateTime.Today)
                     dataNascita = value; 
             }
-        }
-
-        
+        }        
 
 
         //metodi
@@ -68,6 +66,24 @@ namespace Classi
             cf = null;
             dataNascita = DateTime.Today;
         }
+
+        public Persona(string nome, string cognome)
+        {
+            eta = 0;
+            this.nome = nome;
+            this.cognome = cognome;
+            cf = null;
+            dataNascita = DateTime.Today;
+        }
+
+        public Persona(string nome, string cognome, string cf)
+        : this(nome, cognome)//richiama il costruttore scritto sopra
+        {
+            eta = 0;
+            this.cf = cf;
+            dataNascita = DateTime.Today;
+        }
+
         public Persona(int eta, string nome, string cognome, string cf, DateTime dataNascita)
         {
             this.eta = eta;

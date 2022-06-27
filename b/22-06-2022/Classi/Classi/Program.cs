@@ -10,7 +10,7 @@ namespace Classi
     {
         static void Main(string[] args)
         {
-            Persona persona = new Persona(18, "carlo", "brozzo");
+            Persona persona = new Persona(18, "carlo", "brozzo", "ABA", DateTime.Today);
             Console.WriteLine(persona.GetInfo());
             persona.Cognome = "culo";
             Console.WriteLine(persona.GetInfo().ToString());

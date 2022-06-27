@@ -1,0 +1,8 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\27-06-2022\Classi2\Classi2\bin\Debug\Classi2.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\27-06-2022\Classi2\Classi2\bin\Debug\Classi2.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\27-06-2022\Classi2\Classi2\bin\Debug\Classi2.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\27-06-2022\Classi2\Classi2\obj\Debug\Classi2.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\27-06-2022\Classi2\Classi2\obj\Debug\Classi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\27-06-2022\Classi2\Classi2\obj\Debug\Classi2.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\27-06-2022\Classi2\Classi2\obj\Debug\Classi2.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\27-06-2022\Classi2\Classi2\obj\Debug\Classi2.pdb
