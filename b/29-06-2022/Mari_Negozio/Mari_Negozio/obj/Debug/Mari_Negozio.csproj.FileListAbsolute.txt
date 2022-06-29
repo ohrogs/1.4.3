@@ -1,0 +1,8 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\Mari_Negozio\Mari_Negozio\bin\Debug\Mari_Negozio.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\Mari_Negozio\Mari_Negozio\bin\Debug\Mari_Negozio.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\Mari_Negozio\Mari_Negozio\bin\Debug\Mari_Negozio.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\Mari_Negozio\Mari_Negozio\obj\Debug\Mari_Negozio.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\Mari_Negozio\Mari_Negozio\obj\Debug\Mari_Negozio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\Mari_Negozio\Mari_Negozio\obj\Debug\Mari_Negozio.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\Mari_Negozio\Mari_Negozio\obj\Debug\Mari_Negozio.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\Mari_Negozio\Mari_Negozio\obj\Debug\Mari_Negozio.pdb

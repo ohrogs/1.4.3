@@ -1,0 +1,11 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\bin\Debug\ConsoleComplex.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\bin\Debug\ConsoleComplex.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\bin\Debug\ConsoleComplex.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\bin\Debug\NumeriComplessi.dll
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\bin\Debug\NumeriComplessi.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\obj\Debug\ConsoleComplex.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\obj\Debug\ConsoleComplex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\obj\Debug\ConsoleComplex.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\obj\Debug\ConsoleComplex.csproj.CopyComplete
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\obj\Debug\ConsoleComplex.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\ConsoleComplex\ConsoleComplex\obj\Debug\ConsoleComplex.pdb

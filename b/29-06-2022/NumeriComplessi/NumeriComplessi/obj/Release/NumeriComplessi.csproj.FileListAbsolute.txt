@@ -1,0 +1,6 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\NumeriComplessi\NumeriComplessi\bin\Release\NumeriComplessi.dll
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\NumeriComplessi\NumeriComplessi\bin\Release\NumeriComplessi.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\NumeriComplessi\NumeriComplessi\obj\Release\NumeriComplessi.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\NumeriComplessi\NumeriComplessi\obj\Release\NumeriComplessi.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\NumeriComplessi\NumeriComplessi\obj\Release\NumeriComplessi.dll
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\29-06-2022\NumeriComplessi\NumeriComplessi\obj\Release\NumeriComplessi.pdb
