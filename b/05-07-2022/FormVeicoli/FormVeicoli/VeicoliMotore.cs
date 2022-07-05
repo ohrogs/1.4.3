@@ -84,5 +84,12 @@ namespace FormVeicoli
             if (motore == "comb" || motore == "elett")
                 this.motore = motore;
         }
+        public string Stampa()
+        {
+            return "Targa veicolo = " + targa + "\n"
+            + "Proprietario = " + proprietario + "\n"
+            + "Motore = " + motore + "\n"
+            + "Data Immatricolazione = " + dataImmatricolaz;
+        }
     }
 }
