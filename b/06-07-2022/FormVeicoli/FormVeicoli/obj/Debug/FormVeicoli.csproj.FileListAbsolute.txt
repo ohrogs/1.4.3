@@ -1,0 +1,22 @@
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\bin\Debug\FormVeicoli.exe.config
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\bin\Debug\FormVeicoli.exe
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\bin\Debug\FormVeicoli.pdb
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.csproj.AssemblyReference.cache
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.csproj.SuggestedBindingRedirects.cache
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.Properties.Resources.resources
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.csproj.GenerateResource.cache
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.csproj.CoreCompileInputs.cache
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.exe
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.pdb
+C:\Progetti\Corso2022_11.1\Form\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.frmVeicoli.resources
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\bin\Debug\FormVeicoli.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\bin\Debug\FormVeicoli.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\bin\Debug\FormVeicoli.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.frmVeicoli.resources
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.Properties.Resources.resources
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.csproj.GenerateResource.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\06-07-2022\FormVeicoli\FormVeicoli\obj\Debug\FormVeicoli.pdb

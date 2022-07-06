@@ -16,7 +16,7 @@ namespace FormVeicoli
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new VeicoliMotore());
+            Application.Run(new frmVeicoli());
         }
     }
 }

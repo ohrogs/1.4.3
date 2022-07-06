@@ -1,0 +1,11 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\bin\Debug\Mari_Poligono.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\bin\Debug\Mari_Poligono.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\bin\Debug\Mari_Poligono.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\obj\Debug\Mari_Poligono.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\obj\Debug\Mari_Poligono.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\obj\Debug\Mari_Poligono.frmPoligono.resources
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\obj\Debug\Mari_Poligono.Properties.Resources.resources
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\obj\Debug\Mari_Poligono.csproj.GenerateResource.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\obj\Debug\Mari_Poligono.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\obj\Debug\Mari_Poligono.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\05-07-2022\Mari_Poligono\Mari_Poligono\obj\Debug\Mari_Poligono.pdb

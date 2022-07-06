@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FormVeicoli
+namespace Mari_Poligono
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace FormVeicoli
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new VeicoliMotore());
+            Application.Run(new frmPoligono());
         }
     }
 }
