@@ -1,0 +1,11 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\bin\Debug\MARI_FATTURE.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\bin\Debug\MARI_FATTURE.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\bin\Debug\MARI_FATTURE.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\obj\Debug\MARI_FATTURE.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\obj\Debug\MARI_FATTURE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\obj\Debug\MARI_FATTURE.frmFatture.resources
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\obj\Debug\MARI_FATTURE.Properties.Resources.resources
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\obj\Debug\MARI_FATTURE.csproj.GenerateResource.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\obj\Debug\MARI_FATTURE.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\obj\Debug\MARI_FATTURE.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\07-7-2022\MARI_FATTURE\MARI_FATTURE\obj\Debug\MARI_FATTURE.pdb
