@@ -1,0 +1,11 @@
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\bin\Release\Mari.exe.config
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\bin\Release\Mari.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\bin\Release\Mari.pdb
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\obj\Release\Mari.csproj.AssemblyReference.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\obj\Release\Mari.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\obj\Release\Mari.frmMari.resources
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\obj\Release\Mari.Properties.Resources.resources
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\obj\Release\Mari.csproj.GenerateResource.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\obj\Release\Mari.csproj.CoreCompileInputs.cache
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\obj\Release\Mari.exe
+C:\Users\Mari Lorenzo\Documents\1.4.3\b\11-07-2022\Mari\Mari\obj\Release\Mari.pdb
