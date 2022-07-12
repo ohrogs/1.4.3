@@ -16,10 +16,13 @@ public class Main {
             System.out.println("Creazione stack eseguita correttamente");
         }
         Fill(stack, 12);
+        System.out.println("Stampa di tutto cio che era dentro");
         Empty(stack);
-        Fill(stack, 10);
         stack.clean();
+        Fill(stack, 5);
+        System.out.println("Stampa numero 2");
         Empty(stack);
+        stack.clean();
     }
 
     private static void Empty(Stack c)
