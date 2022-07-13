@@ -9,8 +9,9 @@ public class Main {
         Pullman pullman = new Pullman(1200, 4000, 4400, 50);
         //System.out.println(pullman);
         //System.out.println("");
+
         Casello c = new Casello();
-        c.enqueue(auto);
+        /*c.enqueue(auto);
         c.enqueue(moto);
         c.enqueue(camion);
         c.enqueue(pullman);
@@ -18,6 +19,14 @@ public class Main {
         c.printAll();
         System.out.println("Stampa dopo deuqueue");
         c.dequeue();
+        c.printAll();*/
+        Thread equeue = new Thread(new ThrdEnqueue(c, auto));
+        Thread dequeue = new Thread(new ThrdDequeue(c));
+        equeue.start();
+        System.out.println("Print dopo enqueuestart");
+        c.printAll();
+        dequeue.start();
+        System.out.println("Print dopo dequeuestart");
         c.printAll();
     }
 }

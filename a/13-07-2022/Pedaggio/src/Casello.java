@@ -27,6 +27,11 @@ public class Casello {
         coda.dequeue();
     }
 
+    public Veicolo rdequeue()
+    {
+        return coda.dequeue();
+    }
+
 
 
     public void printAll()
