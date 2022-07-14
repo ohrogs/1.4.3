@@ -18,7 +18,6 @@ public class Casello {
         catch (Exception e)
         {
             e.printStackTrace();
-            return;
         }
     }
 
