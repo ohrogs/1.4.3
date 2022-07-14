@@ -16,14 +16,17 @@ public class ThrdEnqueue implements Runnable{
 
     @Override
     public void run() {
-        c.enqueue(Arrivi.get(ThreadLocalRandom.current().nextInt(0, Arrivi.size())));
-        try
+        while (true)
         {
-            Thread.sleep(1000);
-        }
-        catch (Exception ex)
-        {
-            ex.printStackTrace();
+            c.enqueue(Arrivi.get(ThreadLocalRandom.current().nextInt(0, Arrivi.size())));
+            try
+            {
+                Thread.sleep(1000);
+            }
+            catch (Exception ex)
+            {
+                ex.printStackTrace();
+            }
         }
     }
 }

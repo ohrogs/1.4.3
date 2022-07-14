@@ -11,17 +11,20 @@ public class ThrdDequeue implements Runnable{
 
     @Override
     public void run() {
-        System.out.println("ora: " + Date.from(Instant.now()) + " Dequeue restituisce");
-        Veicolo check = x.rdequeue();
-        if (check != null)
-            System.out.println(check);
-        try
+        while(true)
         {
-            Thread.sleep(2000);
-        }
-        catch (Exception ex)
-        {
-            ex.printStackTrace();
+            System.out.println("ora: " + Date.from(Instant.now()) + " Dequeue restituisce");
+            Veicolo check = x.rdequeue();
+            if (check != null)
+                System.out.println(check);
+            try
+            {
+                Thread.sleep(2000);
+            }
+            catch (Exception ex)
+            {
+                ex.printStackTrace();
+            }
         }
     }
 }
