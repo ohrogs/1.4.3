@@ -2,6 +2,8 @@ public abstract class Veicolo {
     protected int nposti;
     protected double interasse, peso, lunghezza;
 
+    //public double portafoglio;
+
     public abstract double getPedaggioCost(double km, double prezzo);
 
     protected String toString(String info)
