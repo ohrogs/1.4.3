@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d2bafe7-1b66-435f-8132-34077da324a2" name="Changes" comment="" />
+    <list default="true" id="203690de-7da9-4366-a062-f642ca8a7b49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,24 +20,23 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2AWdmw3hg0PVoRiOoseFvg4RVUM" />
+  <component name="ProjectId" id="2CDe9pqmmKjjKGXHdWBp69sJyST" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mari Lorenzo/Documents/1.4.3/a/13-06-2022/Fifo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Fifo" />
+      <module name="MariDecorator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -51,41 +50,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7d2bafe7-1b66-435f-8132-34077da324a2" name="Changes" comment="" />
-      <created>1655129439831</created>
+      <changelist id="203690de-7da9-4366-a062-f642ca8a7b49" name="Changes" comment="" />
+      <created>1658341436250</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1655129439831</updated>
-      <workItem from="1655129441064" duration="2008000" />
-      <workItem from="1655189604155" duration="2380000" />
-      <workItem from="1655192231744" duration="12000" />
-      <workItem from="1655198311328" duration="553000" />
-      <workItem from="1655310605531" duration="2934000" />
-      <workItem from="1655373795055" duration="1592000" />
-      <workItem from="1655387013598" duration="1259000" />
-      <workItem from="1655448622707" duration="1524000" />
-      <workItem from="1655450256657" duration="52000" />
-      <workItem from="1655471310900" duration="5905000" />
-      <workItem from="1655543224525" duration="4780000" />
-      <workItem from="1655794719489" duration="60000" />
-      <workItem from="1657628271274" duration="184000" />
-      <workItem from="1657632709033" duration="1585000" />
-      <workItem from="1658341271869" duration="157000" />
+      <updated>1658341436250</updated>
+      <workItem from="1658341438505" duration="5535000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
