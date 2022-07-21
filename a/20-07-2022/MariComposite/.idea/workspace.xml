@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="203690de-7da9-4366-a062-f642ca8a7b49" name="Changes" comment="" />
+    <list default="true" id="b697fc02-a486-4d19-a5bf-8a0ffc42d257" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -20,7 +21,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2CDe9pqmmKjjKGXHdWBp69sJyST" />
+  <component name="ProjectId" id="2CFIa3tsxdd1789tIyWG1z3Uxsp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,29 +35,29 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="MariDecorator" />
+    <configuration name="Mari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mari" />
+      <module name="MariComposite" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Mari" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="203690de-7da9-4366-a062-f642ca8a7b49" name="Changes" comment="" />
-      <created>1658341436250</created>
+      <changelist id="b697fc02-a486-4d19-a5bf-8a0ffc42d257" name="Changes" comment="" />
+      <created>1658391969036</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658341436250</updated>
-      <workItem from="1658341438505" duration="5535000" />
-      <workItem from="1658391122961" duration="820000" />
+      <updated>1658391969036</updated>
+      <workItem from="1658391970298" duration="4202000" />
+      <workItem from="1658399140860" duration="588000" />
     </task>
     <servers />
   </component>

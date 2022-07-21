@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Message messaggioutente = new VideoMessage("SEI UN MAIALE");
+        Message messaggioutente = new VideoMessage("Messaggio chat");
         System.out.println(messaggioutente.getText());
         Message messaggiotiktok = new TikTokMessage(messaggioutente);
         System.out.println(messaggiotiktok.getText());
