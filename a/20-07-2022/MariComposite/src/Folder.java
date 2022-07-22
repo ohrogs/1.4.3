@@ -40,14 +40,42 @@ public class Folder implements Element{ //COMPOSITE
         return "";
     }
 
+    @Override
     public String tree(String tabs)//stampa quasi a posto
     {
-        return "";
+        String ret = tabs + name;
+        String ogtabs = tabs;
+        if(children.size() == 0)
+        {
+            ret += "\n";
+        }
+        else
+        {
+            for (Element e: children) {
+                if (e.getClass().getSimpleName().equals("Folder"))
+                {
+                    ret += "\n" + tabs + e.tree(tabs+="\t");
+                }
+                else
+                {
+                    ret += "\n" + ogtabs + e.ls();
+                }
+            }
+        }
+
+        return ret;
         /*
         if vuota
             return nome
         if leaf stampa e basta
         if folder spacchetta tutto*/
+
+    }
+
+    private void printTabs(int l)
+    {
+        for (int i = 0 ; i < l; i++)
+            System.out.print("\t");
     }
 
     @Override

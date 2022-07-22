@@ -9,7 +9,7 @@ public class File implements Element{ //LEAF
     @Override
     public String ls()
     {
-        return  "\t" + name + "\n";
+        return name;
     }
     @Override
     public String tree(String tabs)

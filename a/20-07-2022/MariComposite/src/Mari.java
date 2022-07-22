@@ -14,9 +14,9 @@ public class Mari {
         docs.add(ab);
         ab.add(new File("gesu.png"));
         root.add(new Folder("empty"));
-        //System.out.println(root.tree(""));
+        System.out.println(root.tree(""));
         root.print("");
-        System.out.println("------");
-        subfolder.print("");
+        /*System.out.println("------");
+        subfolder.print("");*/
     }
 }
