@@ -31,7 +31,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mari Lorenzo/Documents/1.4.3/a/20-07-2022/MariComposite&quot;
   }
 }</component>
   <component name="RunManager">
@@ -58,6 +59,8 @@
       <updated>1658391969036</updated>
       <workItem from="1658391970298" duration="4202000" />
       <workItem from="1658399140860" duration="588000" />
+      <workItem from="1658473975793" duration="7006000" />
+      <workItem from="1658481298088" duration="1438000" />
     </task>
     <servers />
   </component>

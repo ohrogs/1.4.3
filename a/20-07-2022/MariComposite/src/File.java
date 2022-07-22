@@ -9,6 +9,16 @@ public class File implements Element{ //LEAF
     @Override
     public String ls()
     {
-        return name;
+        return  "\t" + name + "\n";
+    }
+    @Override
+    public String tree(String tabs)
+    {
+        return "";
+    }
+
+    @Override
+    public void print(String prev) {
+        System.out.println(prev+"\\"+name);
     }
 }
