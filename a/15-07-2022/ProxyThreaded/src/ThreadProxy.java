@@ -1,6 +1,6 @@
 public class ThreadProxy implements Runnable{
 
-    private Proxy p;
+    private Subject p;
 
     static private int progr = 0;
     private int n;
